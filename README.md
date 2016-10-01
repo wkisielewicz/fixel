@@ -1,2 +1,2 @@
-# fluppy
+# fixel
 A css library.
