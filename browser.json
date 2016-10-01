@@ -1,0 +1,12 @@
+{
+  "name": "fixel.css",
+  "main": "fixel.min.css",
+  "author": "Wioletta Kisielewicz",
+  "ignore": [
+    "CONTRIBUTING.md"
+  ],
+  "keywords": [
+    "fixel",
+    "ui"
+  ]
+}
