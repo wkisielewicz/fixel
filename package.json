@@ -1,0 +1,24 @@
+{
+  "name": "fixel",
+  "title": "fixel",
+  "description": "A CSS library for your lovely and modern websites.",
+  "version": "0.0.1",
+  "style": "fixel.css",
+  "author": {
+    "name": "Wioletta Kisielewicz",
+    "email": "kisielewicz777gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wkisielewicz/fixel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wkisielewicz/fixel/issues"
+  },
+  "license": "See LICENSE.md",
+  "keywords": [
+    "ui",
+    "css",
+    "help"
+  ]
+}
