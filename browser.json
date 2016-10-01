@@ -3,7 +3,8 @@
   "main": "fixel.min.css",
   "author": "Wioletta Kisielewicz",
   "ignore": [
-    "CONTRIBUTING.md"
+    "CONTRIBUTING.md",
+    "Gruntfile.js"
   ],
   "keywords": [
     "fixel",
