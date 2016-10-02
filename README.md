@@ -2,6 +2,8 @@
 ---
 A css library.
 
+# Get started
+
 # Building
 
 Fixel uses Grunt for the build process which you need to have installed on your system.
