@@ -15,6 +15,7 @@ Also there are four additional Grunt tasks:
 * grunt-sass
 * grunt-contrib-concat
 * grunt-contrib-watch
+* grunt-contrib-sass
 
 To install the dependencies, run `npm install`.
 
